@@ -1,0 +1,29 @@
+[
+  {
+      "model": "tunaapi.artist",
+      "pk": 1,
+      "fields": {
+          "name": "John Legend",
+          "age": 44,
+          "bio": "John Legend, is an American singer, songwriter, pianist, record producer, and actor. He began his musical career working behind the scenes for other artists, playing piano on Lauryn Hill's 'Everything Is Everything'."
+      }
+  },
+  {
+      "model": "tunaapi.artist",
+      "pk": 2,
+      "fields": {
+          "name": "Taylor Swift",
+          "age": 33,
+          "bio": "Taylor Alison Swift is an American singer-songwriter. Recognized for her genre-spanning discography, songwriting, and artistic reinventions, Swift is a prominent cultural figure who has been cited as an influence on a generation of music artists"
+      }
+  },
+  {
+      "model": "tunaapi.artist",
+      "pk": 3,
+      "fields": {
+          "name": "Chris Stapleton",
+          "age": 56,
+          "bio": "Christopher Alvin Stapleton is an American singer-songwriter, guitarist, and record producer. He was born in Lexington, Kentucky, and grew up in Staffordsville, Kentucky."
+      }
+  }
+]

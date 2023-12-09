@@ -1,0 +1,42 @@
+[
+  {
+      "model": "tunaapi.song",
+      "pk": 1,
+      "fields": {
+          "title": "All of me",
+          "artist_id": 1,
+          "album": "Love in the Future",
+          "length": 4
+      }
+  },
+  {
+      "model": "tunaapi.song",
+      "pk": 2,
+      "fields": {
+          "title": "Anti-Hero",
+          "artist_id": 2,
+          "album": "Midnights",
+          "length": 5
+      }
+  },
+  {
+      "model": "tunaapi.song",
+      "pk": 3,
+      "fields": {
+          "title": "Tennessee Whiskey",
+          "artist_id": 3,
+          "album": "Traveller",
+          "length": 6
+      }
+  },
+  {
+      "model": "tunaapi.song",
+      "pk": 4,
+      "fields": {
+          "title": "Tennessee Whiskey",
+          "artist_id": 3,
+          "album": "Traveller",
+          "length": 6
+        }
+}
+]
